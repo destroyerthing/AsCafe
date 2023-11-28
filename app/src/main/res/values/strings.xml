@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AsCafe</string>
+    <string name="greetings">Привет, %s! Что желаете?</string>
+    <string name="tea">Чай</string>
+    <string name="coffee">Кофе</string>
+    <string name="additives">Что добавить в ваш %s?</string>
+    <string name="sugar">Сахар</string>
+    <string name="milk">Молоко</string>
+    <string name="lemon">Лимон</string>
+    <string name="drinktype">Выберите тип напитка</string>
+    <string name="make_order">Сделать заказ</string>
+    <string name="name">Имя:</string>
+    <string name="drink">Напиток:</string>
+    <string name="additives_label">Тип напитка:</string>
+
+
+    <array name="types_of_tea">
+
+
+        <item>Зеленый</item>
+        <item>Черный</item>
+
+    </array>
+
+
+    <array name="types_of_coffee">
+
+
+        <item>Американо</item>
+        <item>Эспрессо</item>
+        <item>Латте</item>
+
+    </array>
+
+
+</resources>
